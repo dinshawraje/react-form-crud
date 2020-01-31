@@ -1,0 +1,8 @@
+[
+    {"value": "healthcare", "label": "Healthcare", "link":"S&n"}, 
+    {"value": "Defence&Security", "label": "Defence&Security", "link":"oxford"},
+    {"value":"Energy&Utilities", "label": "Energy & Utilities", "link":"fb"}, 
+    {"value":"Aeroline", "label":"Aeroline", "link":"airbus"}, 
+    {"value":"Media&Entertainment", "label":"Media&Entertainment", "link":"Netflix"},
+    {"value":"Government", "label":"Government", "link":"thales"}
+]

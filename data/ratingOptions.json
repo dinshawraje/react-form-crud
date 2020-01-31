@@ -1,0 +1,6 @@
+[
+    {"value": 0, "label": "No knowledge"}, 
+    {"value": 1, "label": "Learner"}, 
+    {"value": 2, "label": "Practitioner"}, 
+    {"value": 3, "label": "Expert"}
+]

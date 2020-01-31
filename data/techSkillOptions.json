@@ -1,0 +1,18 @@
+[
+    {"value": "angular", "label": "Angular", "link": "frontTier"}, 
+    {"value": "react", "label": "React", "link": "frontTier"}, 
+    {"value": "javascript", "label": "Javascript", "link": "frontTier"}, 
+    {"value": "HTML5", "label": "HTML5", "link": "frontTier"}, 
+    {"value": "python", "label": "Python", "link": "midTier"},
+    {"value": "dotnet", "label": "Dot net", "link": "midTier"},
+    {"value": "ruby", "label": "Ruby", "link": "midTier"},
+    {"value": "java", "label": "Java", "link": "midTier"},
+    {"value":"oracle", "label": "Oracle", "link": "dbTier"}, 
+    {"value":"mysql", "label": "MYSQL", "link": "dbTier"}, 
+    {"value":"nosql", "label": "NOSQL", "link": "dbTier"}, 
+    {"value":"mongo", "label": "MongoDB", "link": "dbTier"}, 
+    {"value":"jenkins", "label":"Jenkins", "link": "testing"},
+    {"value":"selenium", "label":"Selenium", "link": "testing"},
+    {"value":"automation", "label":"Automation", "link": "testing"},
+    {"value":"manual", "label":"Manual", "link": "testing"}
+]
