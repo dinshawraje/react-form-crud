@@ -158,11 +158,7 @@ class EditEmp extends Component {
               />{/* Domain Selection */}
             </div>
           </div>
-          <Button
-            action={this.handleAddSkill}
-            type={'btn btn-primary'}
-            title={'Add Skills'}
-          /> { /*Submit */}
+         
           {
             this.state.newUser.skills.map((skill, idx) => (
               <div className="form-row">
@@ -204,8 +200,13 @@ class EditEmp extends Component {
               </div>
             ))
           }
-          <br />
           
+          <Button
+            action={this.handleAddSkill}
+            type={'btn btn-primary'}
+            title={'Update Skills'}
+          /> { /*Submit */}
+          <br />
           <div className='text-center'>
             <Button
               type={'btn btn-primary'}
