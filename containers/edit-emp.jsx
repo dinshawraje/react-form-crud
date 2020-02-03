@@ -210,7 +210,7 @@ class EditEmp extends Component {
           <div className='text-center'>
             <Button
               type={'btn btn-primary'}
-              title={'Save'}
+              title={'Update'}
             /> { /*Submit */}
 
             <Button
